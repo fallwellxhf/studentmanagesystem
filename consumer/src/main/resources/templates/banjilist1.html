@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table>
+
+                <tr>
+                    <td>编号</td>
+                    <td>班级</td>
+                </tr>
+
+                <tr th:each="banji: ${banjis}">
+
+                    <td th:text="${banji.id}"></td>
+                    <td th:text="${banji.banJi}"></td>
+
+                </tr>
+
+    </table>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/banji_service/banji_service.iml" filepath="$PROJECT_DIR$/banji_service/banji_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_api/service_api.iml" filepath="$PROJECT_DIR$/service_api/service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student1_service/student1_service.iml" filepath="$PROJECT_DIR$/student1_service/student1_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentmanagesystem.iml" filepath="$PROJECT_DIR$/studentmanagesystem.iml" />
+    </modules>
+  </component>
+</project>

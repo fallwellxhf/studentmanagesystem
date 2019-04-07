@@ -1,0 +1,13 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql:///classdb1
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+
+dubbo:
+  application:
+    name: banji_service
+  registry:
+    address: zookeeper://192.168.187.128:2181
